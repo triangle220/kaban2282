@@ -1,0 +1,26 @@
+* {
+	color: red;
+
+}
+html {
+	background-image: url("kaban.jpg");
+	background-size: 100%;
+}
+a {
+	color: whitesmoke;
+	background-color: black;
+	font-size: 250%;
+	text-decoration: none;
+}
+p {
+	background-color: gray;
+	color: brown;
+}
+h1 {
+	font-family: monospace;
+	font-size: 1000%;
+}
+ul {
+	font-size: 700%;
+	padding-left: 100px;
+}
